@@ -1,0 +1,69 @@
+{
+    "medications":[
+    {
+        "medName": "Fluoxetine",
+        "medCode": "FLU001",
+        "image": "images/fluoxetine.jpg"
+    },
+    {
+        "medName": "Sertraline",
+        "medCode": "SER001",
+        "image": "images/sertraline.jpg"
+    },
+    {
+        "medName": "Paroxetine",
+        "medCode": "PAR002",
+        "image": "images/paroxetine.jpg"
+    },
+    {
+        "medName": "Fluvoxamine",
+        "medCode": "FLU002",
+        "image": "images/fluvoxamine.jpg"
+    },
+    {
+        "medName": "Citalopram",
+        "medCode": "CIT001",
+        "image": "images/citalopram.jpg"
+    },
+    {
+        "medName": "Escitalopram",
+        "medCode": "ESC001",
+        "image": "images/escitalopram.jpg"
+    },
+    {
+        "medName": "Venlafaxine",
+        "medCode": "VEN001",
+        "image": "images/venlafaxine.jpg"
+    },
+    {
+        "medName": "Duloxetine",
+        "medCode": "DUL001",
+        "image": "images/duloxetine.jpg"
+    },
+    {
+        "medName": "Bupropion",
+        "medCode": "BUP001",
+        "image": "images/bupropion.jpg"
+    },
+    {
+        "medName": "Trazodone",
+        "medCode": "TRA001",
+        "image": "images/trazodone.jpg"
+    },
+    {
+        "medName": "Nefazodone",
+        "medCode": "NEF001",
+        "image": "images/nefazodone.jpg"
+    },
+    {
+        "medName": "Mirtazapine",
+        "medCode": "MIR001",
+        "image": "images/mirtazapine.jpg"
+    },
+    {
+        "medName": "Amoxapine",
+        "medCode": "AMX002",
+        "image": "images/amoxapine.jpg"
+    }
+]
+}

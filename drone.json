@@ -1,0 +1,74 @@
+{
+    "drones": [
+        {
+            "Serial Number": 5647381,
+            "Model": "LightWeight",
+            "Weight Limit": 200,
+            "Battery Percentage": 50,
+            "State": "Loaded"
+        },
+        {
+            "Serial Number": 5647382,
+            "Model": "MiddleWeight",
+            "Weight Limit": 350,
+            "Battery Percentage": 75,
+            "State": "Delivered"
+        },
+        {
+            "Serial Number": 5647383,
+            "Model": "CruiserWeight",
+            "Weight Limit": 450,
+            "Battery Percentage": 60,
+            "State": "Loading"
+        },
+        {
+            "Serial Number": 5647384,
+            "Model": "LightWeight",
+            "Weight Limit": 200,
+            "Battery Percentage": 25,
+            "State": "Returning"
+        },
+        {
+            "Serial Number": 5647385,
+            "Model": "HeavyWeight",
+            "Weight Limit": 500,
+            "Battery Percentage": 76,
+            "State": "Loaded"
+        },
+        {
+            "Serial Number": 5647386,
+            "Model": "HeavyWeight",
+            "Weight Limit": 500,
+            "Battery Percentage": 80,
+            "State": "Delivering"
+        },
+        {
+            "Serial Number": 5647387,
+            "Model": "LightWeight",
+            "Weight Limit": 500,
+            "Battery Percentage": 50,
+            "State": "Delivered"
+        },
+        {
+            "Serial Number": 5647388,
+            "Model": "HeavyWeight",
+            "Weight Limit": 500,
+            "Battery Percentage": 34,
+            "State": "Idle"
+        },
+        {
+            "Serial Number": 5647389,
+            "Model": "CruiserWeight",
+            "Weight Limit": 450,
+            "Battery Percentage": 75,
+            "State": "Loaded"
+        },
+        {
+            "Serial Number": 5647390,
+            "Model": "MiddleWeight",
+            "Weight Limit": 350,
+            "Battery Percentage": 54,
+            "State": "Delivered"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "medications": [
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        },
+        {
+            "Name": "COVID VACCINES",
+            "Weight": "LightWeight",
+            "Code": 200,
+            "Image": 50
+        }
+    ]
+}
